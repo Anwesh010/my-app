@@ -1,0 +1,25 @@
+.green {
+    background-color: #0bff1f; /* Choose your desired color */
+    color: white; /* Text color */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 5px; /* Add rounded corners */
+    
+    border: 2px solid black;
+    margin: 3px;
+  }
+.red {
+    background-color: #ff0000; /* Choose your desired color */
+    color: white; /* Text color */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 5px; /* Add rounded corners */
+    border: 2px solid black;
+    margin: 3px;
+  }
+.blue {
+    background-color: #0088ff; /* Choose your desired color */
+    color: white; /* Text color */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 5px; /* Add rounded corners */
+    border: 2px solid black;
+    margin: 3px;
+  }
